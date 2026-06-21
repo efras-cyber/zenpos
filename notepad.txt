@@ -1,0 +1,27 @@
+INI DATANYA UDAH DI UBAH UBAH ?
+IYA SESUAI PEMBELAJARAN
+
+
+user admin default nya ada di 
+zenpos-main\database\seeders\UserTableSeeder.php
+
+UNUTK MENAJALANKAN PROJECT 
+JALANKAN PERINTAH INI :
+-  php -S 127.0.0.1:8080 -t public
+-  npm run dev
+
+Role:
+1. SuperAdmin
+User	:kumajayae@gmail.com
+pasword	:Efras@130664
+
+2. Kasir
+User	:marlinamamay843@gmail.com
+Pasword	:Mmy@150470
+
+3. Administrator
+User	:efrasboys@gmail.com
+Pasword	:Efras@130664
+
+UDAH BISA YA YA PAK 
+siap pa terimakasih
